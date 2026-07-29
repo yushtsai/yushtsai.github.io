@@ -1,4 +1,5 @@
 https://drive.google.com/file/d/15M7-fq_RC21gCkcvBpaTpav5GIGR3hcC/view?usp=sharing
+https://drive.google.com/file/d/1pJvxQHC2gqct9y5iWg4Va4IRgMLZc912/view?usp=sharing
 
 | 方法 | 輸入資料 | 輸入數量 | 輸入限制 | 輸出資料 | 輸出數量 | 輸出限制 | 生成腳本 |
 |---|---|---|---|---|---|---|---|
