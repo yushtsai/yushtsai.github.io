@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/15M7-fq_RC21gCkcvBpaTpav5GIGR3hcC/view?usp=sharing
+
 | 方法 | 輸入資料 | 輸入數量 | 輸入限制 | 輸出資料 | 輸出數量 | 輸出限制 | 生成腳本 |
 |---|---|---|---|---|---|---|---|
 | **NoiseTransfer** | clean X + reference noisy Y^r(不需配對) | 各 1 張/次 | 需 noisy reference 指定噪聲類型 | 合成 noisy patch | 動態生成,無固定張數 | 噪聲由 reference 決定 | 無批量腳本,需自己包 |
